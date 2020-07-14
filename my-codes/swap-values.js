@@ -1,3 +1,5 @@
+// values need to have 'let' data type. 'const' wouldn't let you do this.
+
 let first = 'Jaison';
 let second = 'Dsouza';
 
